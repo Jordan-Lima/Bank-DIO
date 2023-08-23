@@ -32,4 +32,4 @@
 <h2 align="center">Sites</h2>
 <a href="https://dio.me"><p align="center"><img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="50"><br>Clique aqui</p></a>
 <a href="https://dev.java/"><p align="center"><img src="https://dev.java/assets/images/java-logo-vector.png" width="70"><br>Clique aqui</p></a>
-<a href="https://jordanlima.dev"><p align="center"><img src="https://github.com/Jordan-Lima/Bank-DIO/assets/60404264/f611999a-c83f-42d2-b73e-5dd34dffb5bd" width="50"><br>Clique aqui</p></a>
+<div align="center"><img src="https://github.com/Jordan-Lima/Bank-DIO/assets/60404264/f611999a-c83f-42d2-b73e-5dd34dffb5bd" width="50"><br><a href="https://jordanlima.dev"><p>Clique aqui</p></a></div>
